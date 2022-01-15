@@ -4,7 +4,6 @@ import business.abstracts.CustomerService;
 import core.abstracts.LoggerService;
 import dataAccess.abstracts.CustomerDao;
 import entities.concretes.Customer;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.*;
